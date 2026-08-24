@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "🔼 Back to top",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,7 +15,7 @@
             "last_commit": "2026-08-12T19:22:45Z",
             "owner": "EthicalML",
             "repo": "awesome-production-machine-learning",
-            "stars": 20865
+            "stars": 20864
           }
         },
         {
@@ -30,20 +30,20 @@
             "last_commit": "2025-02-20T04:13:24Z",
             "owner": "daviddao",
             "repo": "awful-ai",
-            "stars": 7552
+            "stars": 7553
           }
         }
       ],
       "title": "🌟 Editor's Choice"
     },
     {
-      "description": "🔼 Back to top",
+      "description": null,
       "items": [
         {
           "children": [
             {
               "node_type": "item",
-              "title": "",
+              "title": "MISRA",
               "description": "Guidelines for the use of the C++ language in critical systems",
               "children": [],
               "repo_info": {
@@ -58,7 +58,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "MISRA-C",
               "description": "Guidelines for the use of the C language in critical systems",
               "children": [],
               "repo_info": {
@@ -80,13 +80,13 @@
       "title": "📐 Standards"
     },
     {
-      "description": "🔼 Back to top",
+      "description": null,
       "items": [
         {
           "children": [
             {
               "node_type": "item",
-              "title": "",
+              "title": "adversarial-robustness-toolbox",
               "description": "a Python library for ML security - evasion, poisoning, extraction, inference - red and blue teams",
               "children": [],
               "repo_info": {
@@ -96,12 +96,12 @@
                 "last_commit": "2025-12-12T07:01:28Z",
                 "owner": "Trusted-AI",
                 "repo": "adversarial-robustness-toolbox",
-                "stars": 6194
+                "stars": 6197
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "foolbox",
               "description": "fast adversarial attacks to benchmark the robustness of ML models in PyTorch, TensorFlow and JAX",
               "children": [],
               "repo_info": {
@@ -123,37 +123,37 @@
           "children": [
             {
               "node_type": "item",
-              "title": "",
+              "title": "pydantic",
               "description": "data validation using Python type hints",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 90194616,
                 "language": "Python",
-                "last_commit": "2026-08-21T06:14:01Z",
+                "last_commit": "2026-08-24T14:20:17Z",
                 "owner": "pydantic",
                 "repo": "pydantic",
-                "stars": 28598
+                "stars": 28605
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "dvc",
               "description": "a command line tool and VS Code Extension to help you develop reproducible ML projects",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 83878269,
                 "language": "Python",
-                "last_commit": "2026-08-19T02:03:16Z",
+                "last_commit": "2026-08-24T02:03:27Z",
                 "owner": "treeverse",
                 "repo": "dvc",
-                "stars": 15836
+                "stars": 15838
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "great_expectations",
               "description": "always know what to expect from your data",
               "children": [],
               "repo_info": {
@@ -163,12 +163,12 @@
                 "last_commit": "2026-08-21T14:43:46Z",
                 "owner": "fivetran",
                 "repo": "great_expectations",
-                "stars": 11730
+                "stars": 11732
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "cleanlab",
               "description": "data-centric AI package for data quality and ML with messy, real-world data and labels.",
               "children": [],
               "repo_info": {
@@ -178,12 +178,12 @@
                 "last_commit": "2026-01-13T17:39:04Z",
                 "owner": "cleanlab",
                 "repo": "cleanlab",
-                "stars": 11630
+                "stars": 11632
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "pandera",
               "description": "data validation for scientists, engineers, and analysts seeking correctness",
               "children": [],
               "repo_info": {
@@ -193,12 +193,12 @@
                 "last_commit": "2026-08-23T02:14:38Z",
                 "owner": "unionai-oss",
                 "repo": "pandera",
-                "stars": 4439
+                "stars": 4442
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "Ax",
               "description": "an accessible, general-purpose platform for understanding, managing, deploying, and automating adaptive experiments",
               "children": [],
               "repo_info": {
@@ -213,7 +213,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "data-validation",
               "description": "a library for exploring and validating ML data",
               "children": [],
               "repo_info": {
@@ -235,7 +235,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "",
+              "title": "deepeval",
               "description": "a simple-to-use, open-source LLM evaluation framework, for evaluating and testing LLM systems",
               "children": [],
               "repo_info": {
@@ -245,12 +245,12 @@
                 "last_commit": "2026-08-21T19:24:44Z",
                 "owner": "confident-ai",
                 "repo": "deepeval",
-                "stars": 17808
+                "stars": 17818
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "robustbench",
               "description": "a standardized adversarial robustness benchmark",
               "children": [],
               "repo_info": {
@@ -260,12 +260,12 @@
                 "last_commit": "2026-04-14T01:24:12Z",
                 "owner": "RobustBench",
                 "repo": "robustbench",
-                "stars": 781
+                "stars": 782
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "SafeBench",
               "description": "a benchmark for evaluating Autonomous Vehicles in safety-critical scenarios",
               "children": [],
               "repo_info": {
@@ -280,7 +280,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "agent-learning-kit",
               "description": "an open-source LLM evaluation framework with 50+ metrics, LLM-as-Judge augmentation, and guardrail scanners (jailbreak, PII, prompt-injection); AutoEval pipelines with CI/CD support",
               "children": [],
               "repo_info": {
@@ -302,14 +302,14 @@
           "children": [
             {
               "node_type": "item",
-              "title": "",
+              "title": "fairlearn",
               "description": "a Python package to assess and improve fairness of ML models",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 133444044,
                 "language": "Python",
-                "last_commit": "2026-08-22T01:18:02Z",
+                "last_commit": "2026-08-24T06:27:16Z",
                 "owner": "fairlearn",
                 "repo": "fairlearn",
                 "stars": 2273
@@ -317,7 +317,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "privacy",
               "description": "a library for training ML models with privacy for training data",
               "children": [],
               "repo_info": {
@@ -332,7 +332,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "opacus",
               "description": "a library that enables training PyTorch models with differential privacy",
               "children": [],
               "repo_info": {
@@ -342,12 +342,12 @@
                 "last_commit": "2026-07-13T21:37:10Z",
                 "owner": "meta-pytorch",
                 "repo": "opacus",
-                "stars": 1951
+                "stars": 1952
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "concrete-ml",
               "description": "a Privacy-Preserving Machine Learning (PPML) open-source set of tools built on top of Concrete by Zama",
               "children": [],
               "repo_info": {
@@ -362,14 +362,14 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "dstack",
               "description": "TEE framework for private AI model deployment with hardware-level isolation using Intel TDX and NVIDIA Confidential Computing",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 856700396,
                 "language": "Rust",
-                "last_commit": "2026-08-23T17:32:02Z",
+                "last_commit": "2026-08-24T13:37:54Z",
                 "owner": "Dstack-TEE",
                 "repo": "dstack",
                 "stars": 532
@@ -384,7 +384,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "",
+              "title": "captum",
               "description": "a model interpretability and understanding library for PyTorch",
               "children": [],
               "repo_info": {
@@ -394,12 +394,12 @@
                 "last_commit": "2026-08-22T02:50:58Z",
                 "owner": "meta-pytorch",
                 "repo": "captum",
-                "stars": 5689
+                "stars": 5688
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "shapash",
               "description": "user-friendly explainability and interpretability to develop reliable and transparent ML models",
               "children": [],
               "repo_info": {
@@ -414,7 +414,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "alibi",
               "description": "a library aimed at ML model inspection and interpretation",
               "children": [],
               "repo_info": {
@@ -436,37 +436,37 @@
           "children": [
             {
               "node_type": "item",
-              "title": "",
+              "title": "mlflow",
               "description": "an open-source platform for the ML lifecycle",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 136202695,
                 "language": "Python",
-                "last_commit": "2026-08-22T21:29:09Z",
+                "last_commit": "2026-08-24T12:12:03Z",
                 "owner": "mlflow",
                 "repo": "mlflow",
-                "stars": 27633
+                "stars": 27650
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "opik",
               "description": "an open-source platform for evaluating, testing and monitoring LLM applications",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 638951438,
                 "language": "Python",
-                "last_commit": "2026-08-23T20:04:55Z",
+                "last_commit": "2026-08-24T14:38:50Z",
                 "owner": "comet-ml",
                 "repo": "opik",
-                "stars": 21556
+                "stars": 21569
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "wandb",
               "description": "a fully-featured AI developer platform",
               "children": [],
               "repo_info": {
@@ -476,12 +476,12 @@
                 "last_commit": "2026-08-23T19:48:35Z",
                 "owner": "wandb",
                 "repo": "wandb",
-                "stars": 11237
+                "stars": 11238
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "evidently",
               "description": "an open-source ML and LLM observability framework",
               "children": [],
               "repo_info": {
@@ -491,12 +491,12 @@
                 "last_commit": "2026-08-05T16:29:57Z",
                 "owner": "evidentlyai",
                 "repo": "evidently",
-                "stars": 7836
+                "stars": 7840
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "aim",
               "description": "an easy-to-use and supercharged open-source experiment tracker",
               "children": [],
               "repo_info": {
@@ -506,12 +506,12 @@
                 "last_commit": "2026-08-23T20:12:20Z",
                 "owner": "aimhubio",
                 "repo": "aim",
-                "stars": 6240
+                "stars": 6241
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "sacred",
               "description": "a tool to help you configure, organize, log and reproduce experiments",
               "children": [],
               "repo_info": {
@@ -533,7 +533,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "",
+              "title": "garak",
               "description": "Generative AI red-teaming and assessment kit",
               "children": [],
               "repo_info": {
@@ -543,12 +543,12 @@
                 "last_commit": "2026-08-21T14:25:03Z",
                 "owner": "NVIDIA",
                 "repo": "garak",
-                "stars": 8962
+                "stars": 9006
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "llm-guard",
               "description": "a comprehensive tool designed to fortify the security of LLMs",
               "children": [],
               "repo_info": {
@@ -558,12 +558,12 @@
                 "last_commit": "2026-07-08T23:58:40Z",
                 "owner": "protectai",
                 "repo": "llm-guard",
-                "stars": 3201
+                "stars": 3202
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "Model-Inversion-Attack-ToolBox",
               "description": "a comprehensive toolbox for model inversion attacks and defenses",
               "children": [],
               "repo_info": {
@@ -578,7 +578,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "PyRIT",
               "description": "risk identification tool to assess the security and safety issues of generative AI systems",
               "children": [],
               "repo_info": {
@@ -600,7 +600,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "",
+              "title": "ragas",
               "description": "objective metrics, intelligent test generation, and data-driven insights for LLM apps",
               "children": [],
               "repo_info": {
@@ -610,12 +610,12 @@
                 "last_commit": "2026-02-24T07:47:19Z",
                 "owner": "vibrantlabsai",
                 "repo": "ragas",
-                "stars": 15439
+                "stars": 15450
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "deepchecks",
               "description": "an open-source package for validating ML models and data",
               "children": [],
               "repo_info": {
@@ -630,7 +630,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "pytorchfi",
               "description": "a runtime fault injection tool for PyTorch 🔥",
               "children": [],
               "repo_info": {
@@ -652,7 +652,29 @@
           "children": [
             {
               "node_type": "item",
-              "title": "",
+              "title": "secml",
+              "description": "Python library for the security evaluation of Machine Learning algorithms",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 257341185,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-06-23T09:21:41Z",
+                "owner": "pralab",
+                "repo": "secml",
+                "stars": 192
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Oldies 🕰️"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ollama",
               "description": "get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large LMs",
               "children": [],
               "repo_info": {
@@ -662,27 +684,27 @@
                 "last_commit": "2026-08-23T18:40:59Z",
                 "owner": "ollama",
                 "repo": "ollama",
-                "stars": 179276
+                "stars": 179321
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "dify",
               "description": "an open-source LLM app development platform, which combines agentic AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 626805178,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T11:35:23Z",
+                "last_commit": "2026-08-24T14:32:09Z",
                 "owner": "langgenius",
                 "repo": "dify",
-                "stars": 153289
+                "stars": 153369
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "browser-use",
               "description": "make websites accessible for AI agents",
               "children": [],
               "repo_info": {
@@ -692,27 +714,27 @@
                 "last_commit": "2026-08-22T23:25:03Z",
                 "owner": "browser-use",
                 "repo": "browser-use",
-                "stars": 110256
+                "stars": 110330
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "unsloth",
               "description": "finetune Llama 3.3, DeepSeek-R1 and reasoning LLMs 2x faster with 70% less memory! 🦥",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 725205304,
                 "language": "Python",
-                "last_commit": "2026-08-23T22:46:38Z",
+                "last_commit": "2026-08-24T14:29:30Z",
                 "owner": "unslothai",
                 "repo": "unsloth",
-                "stars": 74516
+                "stars": 74587
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "LlamaFactory",
               "description": "unified efficient fine-tuning of 100+ LLMs and VLMs",
               "children": [],
               "repo_info": {
@@ -722,27 +744,27 @@
                 "last_commit": "2026-08-20T10:53:39Z",
                 "owner": "hiyouga",
                 "repo": "LlamaFactory",
-                "stars": 74301
+                "stars": 74312
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "docling",
               "description": "get your documents ready for gen AI",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 826168160,
                 "language": "Python",
-                "last_commit": "2026-08-21T16:05:34Z",
+                "last_commit": "2026-08-24T14:14:53Z",
                 "owner": "docling-project",
                 "repo": "docling",
-                "stars": 65443
+                "stars": 65477
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "anything-llm",
               "description": "all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more",
               "children": [],
               "repo_info": {
@@ -752,27 +774,27 @@
                 "last_commit": "2026-08-22T03:50:06Z",
                 "owner": "Mintplex-Labs",
                 "repo": "anything-llm",
-                "stars": 65111
+                "stars": 65143
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "litellm",
               "description": "all LLM APIs using the OpenAI format [Bedrock, Huggingface, VertexAI, TogetherAI, Azure, OpenAI, Groq, &c.]",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 671269505,
                 "language": "Python",
-                "last_commit": "2026-08-23T22:08:28Z",
+                "last_commit": "2026-08-24T14:38:05Z",
                 "owner": "BerriAI",
                 "repo": "litellm",
-                "stars": 57083
+                "stars": 57143
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "Flowise",
               "description": "drag & drop UI to build your customized LLM flow",
               "children": [],
               "repo_info": {
@@ -782,12 +804,12 @@
                 "last_commit": "2026-08-13T12:38:19Z",
                 "owner": "FlowiseAI",
                 "repo": "Flowise",
-                "stars": 55386
+                "stars": 55389
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "llama_index",
               "description": "the leading framework for building LLM-powered agents over your data",
               "children": [],
               "repo_info": {
@@ -797,12 +819,12 @@
                 "last_commit": "2026-08-20T15:46:41Z",
                 "owner": "run-llama",
                 "repo": "llama_index",
-                "stars": 51824
+                "stars": 51840
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "exo",
               "description": "run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
               "children": [],
               "repo_info": {
@@ -812,42 +834,42 @@
                 "last_commit": "2026-06-23T18:59:18Z",
                 "owner": "exo-explore",
                 "repo": "exo",
-                "stars": 46994
+                "stars": 47007
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "agno",
               "description": "a lightweight library for building multi-modal agents",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 488641606,
                 "language": "Python",
-                "last_commit": "2026-08-23T22:47:18Z",
+                "last_commit": "2026-08-24T14:07:37Z",
                 "owner": "agno-agi",
                 "repo": "agno",
-                "stars": 41859
+                "stars": 41886
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "dspy",
               "description": "the framework for programming - not prompting - language models",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 587050620,
                 "language": "Python",
-                "last_commit": "2026-08-21T23:07:33Z",
+                "last_commit": "2026-08-24T13:44:14Z",
                 "owner": "stanfordnlp",
                 "repo": "dspy",
-                "stars": 37541
+                "stars": 37559
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "khoj",
               "description": "a self-hostable AI second brain",
               "children": [],
               "repo_info": {
@@ -857,12 +879,12 @@
                 "last_commit": "2026-08-02T01:55:40Z",
                 "owner": "khoj-ai",
                 "repo": "khoj",
-                "stars": 36683
+                "stars": 36696
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "Vane",
               "description": "an AI-powered search engine and open source alternative to Perplexity AI",
               "children": [],
               "repo_info": {
@@ -872,57 +894,57 @@
                 "last_commit": "2026-04-11T14:33:06Z",
                 "owner": "ItzCrazyKns",
                 "repo": "Vane",
-                "stars": 36411
+                "stars": 36431
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "langfuse",
               "description": "an open source LLM engineering platform with support for LLM observability, metrics, evals, prompt management, playground, datasets",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 642497346,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T14:42:20Z",
+                "last_commit": "2026-08-24T14:42:07Z",
                 "owner": "langfuse",
                 "repo": "langfuse",
-                "stars": 33586
+                "stars": 33631
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "cognee",
               "description": "reliable LLM memory for AI applications and AI agents",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 679343504,
                 "language": "Python",
-                "last_commit": "2026-08-23T18:37:36Z",
+                "last_commit": "2026-08-24T14:13:04Z",
                 "owner": "topoteretes",
                 "repo": "cognee",
-                "stars": 30198
+                "stars": 30223
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "composio",
               "description": "equip's your AI agents & LLMs with 100+ high-quality integrations via function calling",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 762304524,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T22:47:11Z",
+                "last_commit": "2026-08-24T11:44:45Z",
                 "owner": "ComposioHQ",
                 "repo": "composio",
-                "stars": 29850
+                "stars": 29856
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "Scrapegraph-ai",
               "description": "a web scraping python library that uses LLM and direct graph logic to create scraping pipelines for websites and local documents",
               "children": [],
               "repo_info": {
@@ -932,27 +954,27 @@
                 "last_commit": "2026-08-23T13:18:10Z",
                 "owner": "ScrapeGraphAI",
                 "repo": "Scrapegraph-ai",
-                "stars": 29846
+                "stars": 29851
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "haystack",
               "description": "orchestration framework to build customizable, production-ready LLM applications",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 221654678,
                 "language": "Python",
-                "last_commit": "2026-08-22T02:26:28Z",
+                "last_commit": "2026-08-24T14:27:08Z",
                 "owner": "deepset-ai",
                 "repo": "haystack",
-                "stars": 26294
+                "stars": 26305
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "kotaemon",
               "description": "an open-source RAG-based tool for chatting with your documents",
               "children": [],
               "repo_info": {
@@ -967,22 +989,22 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "promptfoo",
               "description": "a developer-friendly local tool for testing LLM applications",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 633927609,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T18:07:45Z",
+                "last_commit": "2026-08-24T14:44:38Z",
                 "owner": "promptfoo",
                 "repo": "promptfoo",
-                "stars": 24492
+                "stars": 24527
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "guidance",
               "description": "a guidance language for controlling large language models",
               "children": [],
               "repo_info": {
@@ -992,57 +1014,57 @@
                 "last_commit": "2026-05-21T17:08:04Z",
                 "owner": "guidance-ai",
                 "repo": "guidance",
-                "stars": 21717
+                "stars": 21716
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "pydantic-ai",
               "description": "agent framework / shim to use Pydantic with LLMs",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 818331198,
                 "language": "Python",
-                "last_commit": "2026-08-23T19:20:47Z",
+                "last_commit": "2026-08-24T14:16:09Z",
                 "owner": "pydantic",
                 "repo": "pydantic-ai",
-                "stars": 19463
+                "stars": 19478
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "data-formulator",
               "description": "transform data and create rich visualizations iteratively with AI 🪄",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 812077621,
                 "language": "Python",
-                "last_commit": "2026-08-21T18:30:55Z",
+                "last_commit": "2026-08-24T14:19:43Z",
                 "owner": "microsoft",
                 "repo": "data-formulator",
-                "stars": 16932
+                "stars": 16948
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "outlines",
               "description": "make LLMs speak the language of every application",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 615403340,
                 "language": "Python",
-                "last_commit": "2026-08-23T13:47:31Z",
+                "last_commit": "2026-08-24T14:21:15Z",
                 "owner": "dottxt-ai",
                 "repo": "outlines",
-                "stars": 15675
+                "stars": 15679
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "instructor",
               "description": "the most popular Python library for working with structured outputs from LLMs",
               "children": [],
               "repo_info": {
@@ -1052,57 +1074,57 @@
                 "last_commit": "2026-08-09T14:55:49Z",
                 "owner": "567-labs",
                 "repo": "instructor",
-                "stars": 13771
+                "stars": 13774
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "keep",
               "description": "open-source AIOps and alert management platform",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 597502256,
                 "language": "Python",
-                "last_commit": "2026-08-23T11:13:10Z",
+                "last_commit": "2026-08-24T07:26:38Z",
                 "owner": "keephq",
                 "repo": "keep",
-                "stars": 12238
+                "stars": 12240
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "phoenix",
               "description": "an open-source AI observability platform designed for experimentation, evaluation, and troubleshooting",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 564072810,
                 "language": "Python",
-                "last_commit": "2026-08-23T18:27:27Z",
+                "last_commit": "2026-08-24T14:31:18Z",
                 "owner": "Arize-ai",
                 "repo": "phoenix",
-                "stars": 11151
+                "stars": 11168
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "giskard-oss",
               "description": "control risks of performance, bias and security issues in AI systems",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 466864356,
                 "language": "Python",
-                "last_commit": "2026-08-20T21:37:02Z",
+                "last_commit": "2026-08-24T09:43:01Z",
                 "owner": "Giskard-AI",
                 "repo": "giskard-oss",
-                "stars": 5765
+                "stars": 5767
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "h2o-llmstudio",
               "description": "a framework and no-code GUI for fine-tuning LLMs",
               "children": [],
               "repo_info": {
@@ -1117,22 +1139,22 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "latitude-llm",
               "description": "open-source prompt engineering platform to build, evaluate, and refine your prompts with AI",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 821360765,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T09:19:37Z",
+                "last_commit": "2026-08-24T12:43:18Z",
                 "owner": "latitude-dev",
                 "repo": "latitude-llm",
-                "stars": 4597
+                "stars": 4599
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "lmql",
               "description": "a programming language for LLMs based on a superset of Python",
               "children": [],
               "repo_info": {
@@ -1147,7 +1169,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "detoxify",
               "description": "trained models and code to predict toxic comments",
               "children": [],
               "repo_info": {
@@ -1157,19 +1179,19 @@
                 "last_commit": "2026-07-06T21:15:21Z",
                 "owner": "unitaryai",
                 "repo": "detoxify",
-                "stars": 1289
+                "stars": 1290
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "prompty",
               "description": "an asset class and format for LLM prompts designed to enhance observability, understandability, and portability for developers",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 790316547,
                 "language": "Rust",
-                "last_commit": "2026-08-23T22:16:09Z",
+                "last_commit": "2026-08-24T04:58:02Z",
                 "owner": "microsoft",
                 "repo": "prompty",
                 "stars": 1252
@@ -1177,7 +1199,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "groq-python",
               "description": "the official Python library for the Groq API",
               "children": [],
               "repo_info": {
@@ -1192,7 +1214,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "robustlearn",
               "description": "a unified library for research on robust ML",
               "children": [],
               "repo_info": {
@@ -1214,7 +1236,49 @@
       "title": "🛠️ Tools"
     },
     {
-      "description": "🔼 Back to top",
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(Linux Foundation) ONNX Safety-Related Profile",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 832117746,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-07T09:26:55Z",
+            "owner": "ericjenn",
+            "repo": "working-groups",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "👷🏼 Working Groups"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awful AI",
+          "description": ", a collection of scary AI use cases",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 127008307,
+            "language": null,
+            "last_commit": "2025-02-20T04:13:24Z",
+            "owner": "daviddao",
+            "repo": "awful-ai",
+            "stars": 7553
+          }
+        }
+      ],
+      "title": "👾 Miscellaneous"
+    },
+    {
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1228,7 +1292,7 @@
             "last_commit": "2026-08-22T04:01:54Z",
             "owner": "Shubhamsaboo",
             "repo": "awesome-llm-apps",
-            "stars": 133721
+            "stars": 133880
           }
         },
         {
@@ -1243,7 +1307,7 @@
             "last_commit": "2026-08-12T19:22:45Z",
             "owner": "EthicalML",
             "repo": "awesome-production-machine-learning",
-            "stars": 20865
+            "stars": 20864
           }
         },
         {
@@ -1258,7 +1322,7 @@
             "last_commit": "2026-08-17T00:21:28Z",
             "owner": "kelvins",
             "repo": "awesome-mlops",
-            "stars": 5254
+            "stars": 5253
           }
         },
         {
@@ -1341,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T22:47:53.075Z",
+    "last_updated": "2026-08-24T14:45:16.122Z",
     "original_repository": "JGalego/awesome-safety-critical-ai",
     "original_repository_id": 934350315,
     "original_repository_sha": "b021c290673f23b77cde19350876521ddf95f69e",
