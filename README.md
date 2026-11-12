@@ -223,7 +223,7 @@ In critical systems, **good enough isn't good enough**. The stakes are too high 
 
 <small>[🔼 Back to top](#toc)</small>
 
-* 🧰 An awesome set of [tools for production-ready ML](https://github.com/EthicalML/awesome-production-machine-learning) ⭐ 21,093 | 🐛 45 | 📅 2026-11-08
+* 🧰 An awesome set of [tools for production-ready ML](https://github.com/EthicalML/awesome-production-machine-learning) ⭐ 21,097 | 🐛 45 | 📅 2026-11-08
   > **A word of caution** ☝️ Use them wisely and remember that *"a sword is only as good as the man \[or woman] who wields it"*
 * 😈 A collection of scary [use cases](https://github.com/daviddao/awful-ai) ⭐ 7,570 | 🐛 26 | 📅 2025-02-20, [incidents](https://incidentdatabase.ai/) and [failures](https://avidml.org/) of AI, which will hopefully raise awareness to its misuses
 * If you're just starting, here's our recommended reading list:
@@ -675,59 +675,59 @@ If you're in a hurry or just don't like reading, here's a podcast-style breakdow
 
 ### Adversarial Attacks
 
-* [`Trusted-AI/adversarial-robustness-toolbox`](https://github.com/Trusted-AI/adversarial-robustness-toolbox) ⭐ 6,308 | 🐛 28 | 🌐 Python | 📅 2026-11-10: a Python library for ML security - evasion, poisoning, extraction, inference - red and blue teams
-* [`bethgelab/foolbox`](https://github.com/bethgelab/foolbox) ⭐ 2,982 | 🐛 31 | 🌐 Python | 📅 2025-12-03: fast adversarial attacks to benchmark the robustness of ML models in PyTorch, TensorFlow and JAX
+* [`Trusted-AI/adversarial-robustness-toolbox`](https://github.com/Trusted-AI/adversarial-robustness-toolbox) ⭐ 6,311 | 🐛 28 | 🌐 Python | 📅 2026-11-11: a Python library for ML security - evasion, poisoning, extraction, inference - red and blue teams
+* [`bethgelab/foolbox`](https://github.com/bethgelab/foolbox) ⭐ 2,983 | 🐛 31 | 🌐 Python | 📅 2025-12-03: fast adversarial attacks to benchmark the robustness of ML models in PyTorch, TensorFlow and JAX
 
 ### Data Management
 
-* [`pydantic/pydantic`](https://github.com/pydantic/pydantic) ⭐ 29,434 | 🐛 602 | 🌐 Python | 📅 2026-11-10: data validation using Python type hints
-* [`iterative/dvc`](https://github.com/iterative/dvc) ⭐ 15,971 | 🐛 227 | 🌐 Python | 📅 2026-11-09: a command line tool and VS Code Extension to help you develop reproducible ML projects
-* [`great-expectations/great_expectations`](https://github.com/great-expectations/great_expectations) ⭐ 11,925 | 🐛 46 | 🌐 Python | 📅 2026-11-10: always know what to expect from your data
-* [`cleanlab/cleanlab`](https://github.com/cleanlab/cleanlab) ⭐ 11,741 | 🐛 148 | 🌐 Python | 📅 2026-01-13: data-centric AI package for data quality and ML with messy, real-world data and labels.
-* [`unionai-oss/pandera`](https://github.com/unionai-oss/pandera) ⭐ 4,523 | 🐛 471 | 🌐 Python | 📅 2026-11-10: data validation for scientists, engineers, and analysts seeking correctness
-* [`facebook/Ax`](https://github.com/facebook/Ax) ⭐ 2,839 | 🐛 174 | 🌐 Python | 📅 2026-11-10: an accessible, general-purpose platform for understanding, managing, deploying, and automating adaptive experiments
+* [`pydantic/pydantic`](https://github.com/pydantic/pydantic) ⭐ 29,467 | 🐛 603 | 🌐 Python | 📅 2026-11-10: data validation using Python type hints
+* [`iterative/dvc`](https://github.com/iterative/dvc) ⭐ 15,972 | 🐛 227 | 🌐 Python | 📅 2026-11-09: a command line tool and VS Code Extension to help you develop reproducible ML projects
+* [`great-expectations/great_expectations`](https://github.com/great-expectations/great_expectations) ⭐ 11,926 | 🐛 45 | 🌐 Python | 📅 2026-11-11: always know what to expect from your data
+* [`cleanlab/cleanlab`](https://github.com/cleanlab/cleanlab) ⭐ 11,741 | 🐛 149 | 🌐 Python | 📅 2026-01-13: data-centric AI package for data quality and ML with messy, real-world data and labels.
+* [`unionai-oss/pandera`](https://github.com/unionai-oss/pandera) ⭐ 4,523 | 🐛 476 | 🌐 Python | 📅 2026-11-11: data validation for scientists, engineers, and analysts seeking correctness
+* [`facebook/Ax`](https://github.com/facebook/Ax) ⭐ 2,841 | 🐛 174 | 🌐 Python | 📅 2026-11-10: an accessible, general-purpose platform for understanding, managing, deploying, and automating adaptive experiments
 * [`tensorflow/data-validation`](https://github.com/tensorflow/data-validation) ⭐ 787 | 🐛 15 | 🌐 Python | 📅 2026-08-14: a library for exploring and validating ML data
 
 ### Model Evaluation
 
-* [`confident-ai/deepeval`](https://github.com/confident-ai/deepeval) ⭐ 19,419 | 🐛 825 | 🌐 Python | 📅 2026-11-10: a simple-to-use, open-source LLM evaluation framework, for evaluating and testing LLM systems
+* [`confident-ai/deepeval`](https://github.com/confident-ai/deepeval) ⭐ 19,448 | 🐛 828 | 🌐 Python | 📅 2026-11-11: a simple-to-use, open-source LLM evaluation framework, for evaluating and testing LLM systems
 * [`RobustBench/robustbench`](https://github.com/RobustBench/robustbench) ⭐ 791 | 🐛 13 | 🌐 Python | 📅 2026-04-14: a standardized adversarial robustness benchmark
-* [`trust-ai/SafeBench`](https://github.com/trust-ai/SafeBench) ⭐ 164 | 🐛 17 | 🌐 Python | 📅 2024-02-23: a benchmark for evaluating Autonomous Vehicles in safety-critical scenarios
-* [`future-agi/ai-evaluation`](https://github.com/future-agi/ai-evaluation) ⭐ 128 | 🐛 61 | 🌐 Python | 📅 2026-11-11: an open-source LLM evaluation framework with 50+ metrics, LLM-as-Judge augmentation, and guardrail scanners (jailbreak, PII, prompt-injection); AutoEval pipelines with CI/CD support
+* [`trust-ai/SafeBench`](https://github.com/trust-ai/SafeBench) ⭐ 165 | 🐛 17 | 🌐 Python | 📅 2024-02-23: a benchmark for evaluating Autonomous Vehicles in safety-critical scenarios
+* [`future-agi/ai-evaluation`](https://github.com/future-agi/ai-evaluation) ⭐ 128 | 🐛 65 | 🌐 Python | 📅 2026-11-11: an open-source LLM evaluation framework with 50+ metrics, LLM-as-Judge augmentation, and guardrail scanners (jailbreak, PII, prompt-injection); AutoEval pipelines with CI/CD support
 
 ### Model Fairness & Privacy
 
-* [`fairlearn/fairlearn`](https://github.com/fairlearn/fairlearn) ⭐ 2,306 | 🐛 122 | 🌐 Python | 📅 2026-11-07: a Python package to assess and improve fairness of ML models
+* [`fairlearn/fairlearn`](https://github.com/fairlearn/fairlearn) ⭐ 2,306 | 🐛 123 | 🌐 Python | 📅 2026-11-07: a Python package to assess and improve fairness of ML models
 * [`tensorflow/privacy`](https://github.com/tensorflow/privacy) ⭐ 2,037 | 🐛 138 | 🌐 Python | 📅 2026-11-10: a library for training ML models with privacy for training data
 * [`pytorch/opacus`](https://github.com/pytorch/opacus) ⭐ 1,970 | 🐛 85 | 🌐 Python | 📅 2026-09-24: a library that enables training PyTorch models with differential privacy
 * [`zama-ai/concrete-ml`](https://github.com/zama-ai/concrete-ml) ⭐ 1,457 | 🐛 22 | 🌐 Python | 📅 2026-11-04: a Privacy-Preserving Machine Learning (PPML) open-source set of tools built on top of Concrete by Zama
-* [`Dstack-TEE/dstack`](https://github.com/Dstack-TEE/dstack) ⭐ 575 | 🐛 116 | 🌐 Rust | 📅 2026-11-10: TEE framework for private AI model deployment with hardware-level isolation using Intel TDX and NVIDIA Confidential Computing
+* [`Dstack-TEE/dstack`](https://github.com/Dstack-TEE/dstack) ⭐ 575 | 🐛 115 | 🌐 Rust | 📅 2026-11-11: TEE framework for private AI model deployment with hardware-level isolation using Intel TDX and NVIDIA Confidential Computing
 
 ### Model Intepretability
 
-* [`pytorch/captum`](https://github.com/pytorch/captum) ⭐ 5,721 | 🐛 92 | 🌐 Python | 📅 2026-11-01: a model interpretability and understanding library for PyTorch
+* [`pytorch/captum`](https://github.com/pytorch/captum) ⭐ 5,722 | 🐛 92 | 🌐 Python | 📅 2026-11-01: a model interpretability and understanding library for PyTorch
 * [`MAIF/shapash`](https://github.com/MAIF/shapash) ⭐ 3,271 | 🐛 37 | 🌐 Jupyter Notebook | 📅 2026-11-10: user-friendly explainability and interpretability to develop reliable and transparent ML models
-* [`SeldonIO/alibi`](https://github.com/SeldonIO/alibi) ⭐ 2,652 | 🐛 161 | 🌐 Python | 📅 2025-10-17: a library aimed at ML model inspection and interpretation
+* [`SeldonIO/alibi`](https://github.com/SeldonIO/alibi) ⭐ 2,651 | 🐛 161 | 🌐 Python | 📅 2025-10-17: a library aimed at ML model inspection and interpretation
 
 ### Model Lifecycle
 
-* [`mlflow/mlflow`](https://github.com/mlflow/mlflow) ⭐ 28,750 | 🐛 2,220 | 🌐 Python | 📅 2026-11-11: an open-source platform for the ML lifecycle
-* [`comet-ml/opik`](https://github.com/comet-ml/opik) ⭐ 23,318 | 🐛 203 | 🌐 Python | 📅 2026-11-11: an open-source platform for evaluating, testing and monitoring LLM applications
-* [`wandb/wandfb`](https://github.com/wandb/wandb) ⭐ 11,316 | 🐛 1,044 | 🌐 Python | 📅 2026-11-11: a fully-featured AI developer platform
-* [`evidentlyai/evidently`](https://github.com/evidentlyai/evidently) ⭐ 8,056 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-09-29: an open-source ML and LLM observability framework
+* [`mlflow/mlflow`](https://github.com/mlflow/mlflow) ⭐ 28,771 | 🐛 2,221 | 🌐 Python | 📅 2026-11-12: an open-source platform for the ML lifecycle
+* [`comet-ml/opik`](https://github.com/comet-ml/opik) ⭐ 23,352 | 🐛 209 | 🌐 Python | 📅 2026-11-12: an open-source platform for evaluating, testing and monitoring LLM applications
+* [`wandb/wandfb`](https://github.com/wandb/wandb) ⭐ 11,317 | 🐛 1,046 | 🌐 Python | 📅 2026-11-11: a fully-featured AI developer platform
+* [`evidentlyai/evidently`](https://github.com/evidentlyai/evidently) ⭐ 8,059 | 🐛 359 | 🌐 Jupyter Notebook | 📅 2026-09-29: an open-source ML and LLM observability framework
 * [`aimhubio/aim`](https://github.com/aimhubio/aim) ⭐ 6,297 | 🐛 483 | 🌐 Python | 📅 2026-11-07: an easy-to-use and supercharged open-source experiment tracker
-* [`IDSIA/sacred`](https://github.com/IDSIA/sacred) ⭐ 4,382 | 🐛 113 | 🌐 Python | 📅 2025-10-22: a tool to help you configure, organize, log and reproduce experiments
+* [`IDSIA/sacred`](https://github.com/IDSIA/sacred) ⭐ 4,383 | 🐛 113 | 🌐 Python | 📅 2025-10-22: a tool to help you configure, organize, log and reproduce experiments
 
 ### Model Security
 
-* [`nvidia/garak`](https://github.com/NVIDIA/garak) ⭐ 9,986 | 🐛 566 | 🌐 Python | 📅 2026-11-06: Generative AI red-teaming and assessment kit
+* [`nvidia/garak`](https://github.com/NVIDIA/garak) ⭐ 9,994 | 🐛 568 | 🌐 Python | 📅 2026-11-06: Generative AI red-teaming and assessment kit
 * [`protectai/llm-guard`](https://github.com/protectai/llm-guard) ⚠️ Archived: a comprehensive tool designed to fortify the security of LLMs
 * [`ffhibnese/Model-Inversion-Attack-ToolBox`](https://github.com/ffhibnese/Model-Inversion-Attack-ToolBox) ⭐ 198 | 🐛 3 | 🌐 Python | 📅 2026-09-15: a comprehensive toolbox for model inversion attacks and defenses
 * [`azure/PyRIT`](https://github.com/Azure/PyRIT) ⚠️ Archived: risk identification tool to assess the security and safety issues of generative AI systems
 
 ### Model Testing & Validation
 
-* [`explodinggradients/ragas`](https://github.com/explodinggradients/ragas) ⭐ 16,285 | 🐛 662 | 🌐 Python | 📅 2026-02-24: objective metrics, intelligent test generation, and data-driven insights for LLM apps
+* [`explodinggradients/ragas`](https://github.com/explodinggradients/ragas) ⭐ 16,299 | 🐛 662 | 🌐 Python | 📅 2026-02-24: objective metrics, intelligent test generation, and data-driven insights for LLM apps
 * [`deepchecks/deepchecks`](https://github.com/deepchecks/deepchecks) ⭐ 4,069 | 🐛 271 | 🌐 Python | 📅 2025-12-28: an open-source package for validating ML models and data
 * [`pytorchfi/pytorchfi`](https://github.com/pytorchfi/pytorchfi) ⭐ 133 | 🐛 15 | 🌐 Python | 📅 2024-07-25: a runtime fault injection tool for PyTorch 🔥
 
@@ -739,40 +739,40 @@ If you're in a hurry or just don't like reading, here's a podcast-style breakdow
 
 > **Just a quick note** 📌 This section includes some promising, open-source tools we're currently testing and evaluating at Critical Software. We prioritize minimal, reliable, security-first, `prod`-ready tools with support for local deployment. **If you know better ones, feel free to reach out to one of the maintainers or open a pull request.**
 
-* [`ollama/ollama`](https://github.com/ollama/ollama) ⭐ 186,582 | 🐛 4,618 | 🌐 Go | 📅 2026-11-11: get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large LMs
-* [`langgenius/dify`](https://github.com/langgenius/dify) ⭐ 160,899 | 🐛 1,223 | 🌐 Python | 📅 2026-11-11: an open-source LLM app development platform, which combines agentic AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production
-* [`browser-use/browser-use`](https://github.com/browser-use/browser-use) ⭐ 120,614 | 🐛 618 | 🌐 Python | 📅 2026-11-11: make websites accessible for AI agents
-* [`unslothai/unsloth`](https://github.com/unslothai/unsloth) ⭐ 79,299 | 🐛 482 | 🌐 Python | 📅 2026-11-11: finetune Llama 3.3, DeepSeek-R1 and reasoning LLMs 2x faster with 70% less memory! 🦥
-* [`hiyouga/LLaMA-Factory`](https://github.com/hiyouga/LLaMA-Factory) ⭐ 75,984 | 🐛 1,228 | 🌐 Python | 📅 2026-11-10: unified efficient fine-tuning of 100+ LLMs and VLMs
-* [`DS4SD/docling`](https://github.com/DS4SD/docling) ⭐ 70,400 | 🐛 973 | 🌐 Python | 📅 2026-11-10: get your documents ready for gen AI
-* [`Mintplex-Labs/anything-llm`](https://github.com/Mintplex-Labs/anything-llm) ⭐ 68,156 | 🐛 338 | 🌐 JavaScript | 📅 2026-11-10: all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more
-* [`BerriAI/litellm`](https://github.com/BerriAI/litellm) ⭐ 63,069 | 🐛 5,099 | 🌐 Python | 📅 2026-11-11: all LLM APIs using the OpenAI format \[Bedrock, Huggingface, VertexAI, TogetherAI, Azure, OpenAI, Groq, \&c.]
+* [`ollama/ollama`](https://github.com/ollama/ollama) ⭐ 186,713 | 🐛 4,624 | 🌐 Go | 📅 2026-11-11: get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large LMs
+* [`langgenius/dify`](https://github.com/langgenius/dify) ⭐ 161,000 | 🐛 1,233 | 🌐 Python | 📅 2026-11-12: an open-source LLM app development platform, which combines agentic AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production
+* [`browser-use/browser-use`](https://github.com/browser-use/browser-use) ⭐ 120,752 | 🐛 611 | 🌐 Python | 📅 2026-11-12: make websites accessible for AI agents
+* [`unslothai/unsloth`](https://github.com/unslothai/unsloth) ⭐ 79,344 | 🐛 530 | 🌐 Python | 📅 2026-11-12: finetune Llama 3.3, DeepSeek-R1 and reasoning LLMs 2x faster with 70% less memory! 🦥
+* [`hiyouga/LLaMA-Factory`](https://github.com/hiyouga/LLaMA-Factory) ⭐ 76,005 | 🐛 1,233 | 🌐 Python | 📅 2026-11-11: unified efficient fine-tuning of 100+ LLMs and VLMs
+* [`DS4SD/docling`](https://github.com/DS4SD/docling) ⭐ 70,460 | 🐛 985 | 🌐 Python | 📅 2026-11-11: get your documents ready for gen AI
+* [`Mintplex-Labs/anything-llm`](https://github.com/Mintplex-Labs/anything-llm) ⭐ 68,196 | 🐛 343 | 🌐 JavaScript | 📅 2026-11-12: all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more
+* [`BerriAI/litellm`](https://github.com/BerriAI/litellm) ⭐ 63,131 | 🐛 5,131 | 🌐 Python | 📅 2026-11-12: all LLM APIs using the OpenAI format \[Bedrock, Huggingface, VertexAI, TogetherAI, Azure, OpenAI, Groq, \&c.]
 * [`FlowiseAI/Flowise`](https://github.com/FlowiseAI/Flowise) ⚠️ Archived: drag & drop UI to build your customized LLM flow
-* [`run-llama/llama_index`](https://github.com/run-llama/llama_index) ⭐ 52,868 | 🐛 1,349 | 🌐 Python | 📅 2026-11-10: the leading framework for building LLM-powered agents over your data
-* [`exo-explore/exo`](https://github.com/exo-explore/exo) ⭐ 48,291 | 🐛 458 | 🌐 Python | 📅 2026-11-06: run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
-* [`agno-agi/agno`](https://github.com/agno-agi/agno) ⭐ 43,140 | 🐛 1,909 | 🌐 Python | 📅 2026-11-11: a lightweight library for building multi-modal agents
-* [`stanfordnlp/dspy`](https://github.com/stanfordnlp/dspy) ⭐ 39,002 | 🐛 775 | 🌐 Python | 📅 2026-11-10: the framework for programming - not prompting - language models
-* [`ItzCrazyKns/Perplexica`](https://github.com/ItzCrazyKns/Perplexica) ⭐ 38,154 | 🐛 379 | 🌐 TypeScript | 📅 2026-09-01: an AI-powered search engine and open source alternative to Perplexity AI
-* [`khoj-ai/khoj`](https://github.com/khoj-ai/khoj) ⭐ 38,104 | 🐛 171 | 🌐 Python | 📅 2026-08-02: a self-hostable AI second brain
-* [`langfuse/langfuse`](https://github.com/langfuse/langfuse) ⭐ 37,270 | 🐛 1,182 | 🌐 TypeScript | 📅 2026-11-10: an open source LLM engineering platform with support for LLM observability, metrics, evals, prompt management, playground, datasets
-* [`topoteretes/cognee`](https://github.com/topoteretes/cognee) ⭐ 33,231 | 🐛 1,118 | 🌐 Python | 📅 2026-11-11: reliable LLM memory for AI applications and AI agents
-* [`ScrapeGraphAI/Scrapegraph-ai`](https://github.com/ScrapeGraphAI/Scrapegraph-ai) ⭐ 32,706 | 🐛 32 | 🌐 Python | 📅 2026-10-06: a web scraping python library that uses LLM and direct graph logic to create scraping pipelines for websites and local documents
-* [`ComposioHQ/composio`](https://github.com/ComposioHQ/composio) ⭐ 31,019 | 🐛 138 | 🌐 TypeScript | 📅 2026-11-11: equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
-* [`promptfoo/promptfoo`](https://github.com/promptfoo/promptfoo) ⭐ 27,035 | 🐛 965 | 🌐 TypeScript | 📅 2026-11-11: a developer-friendly local tool for testing LLM applications
-* [`deepset-ai/haystack`](https://github.com/deepset-ai/haystack) ⭐ 26,985 | 🐛 156 | 🌐 Python | 📅 2026-11-10: orchestration framework to build customizable, production-ready LLM applications
-* [`Cinnamon/kotaemon`](https://github.com/Cinnamon/kotaemon) ⭐ 25,904 | 🐛 262 | 🌐 Python | 📅 2026-07-14: an open-source RAG-based tool for chatting with your documents
-* [`guidance-ai/guidance`](https://github.com/guidance-ai/guidance) ⭐ 21,822 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-05-21: a guidance language for controlling large language models
-* [`pydantic/pydantic-ai`](https://github.com/pydantic/pydantic-ai) ⭐ 21,129 | 🐛 1,964 | 🌐 Python | 📅 2026-11-11: agent framework / shim to use Pydantic with LLMs
-* [`microsoft/data-formulator`](https://github.com/microsoft/data-formulator) ⭐ 17,675 | 🐛 128 | 🌐 Python | 📅 2026-11-09: transform data and create rich visualizations iteratively with AI 🪄
-* [`dottxt-ai/outlines`](https://github.com/dottxt-ai/outlines) ⭐ 16,010 | 🐛 213 | 🌐 Python | 📅 2026-09-21: make LLMs speak the language of every application
-* [`instructor-ai/instructor`](https://github.com/instructor-ai/instructor) ⭐ 14,103 | 🐛 30 | 🌐 Python | 📅 2026-11-10: the most popular Python library for working with structured outputs from LLMs
-* [`keephq/keep`](https://github.com/keephq/keep) ⭐ 12,508 | 🐛 674 | 🌐 Python | 📅 2026-11-10: open-source AIOps and alert management platform
-* [`Arize-ai/phoenix`](https://github.com/Arize-ai/phoenix) ⭐ 12,238 | 🐛 1,239 | 🌐 Python | 📅 2026-11-11: an open-source AI observability platform designed for experimentation, evaluation, and troubleshooting
-* [`Giskard-AI/giskard`](https://github.com/Giskard-AI/giskard) ⭐ 5,946 | 🐛 80 | 🌐 Python | 📅 2026-11-10: control risks of performance, bias and security issues in AI systems
-* [`h2oai/h2o-llmstudio`](https://github.com/h2oai/h2o-llmstudio) ⭐ 5,193 | 🐛 30 | 🌐 Python | 📅 2026-11-09: a framework and no-code GUI for fine-tuning LLMs
-* [`latitude-dev/latitude-llm`](https://github.com/latitude-dev/latitude-llm) ⭐ 4,747 | 🐛 114 | 🌐 TypeScript | 📅 2026-11-09: open-source prompt engineering platform to build, evaluate, and refine your prompts with AI
+* [`run-llama/llama_index`](https://github.com/run-llama/llama_index) ⭐ 52,879 | 🐛 1,363 | 🌐 Python | 📅 2026-11-11: the leading framework for building LLM-powered agents over your data
+* [`exo-explore/exo`](https://github.com/exo-explore/exo) ⭐ 48,325 | 🐛 462 | 🌐 Python | 📅 2026-11-06: run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+* [`agno-agi/agno`](https://github.com/agno-agi/agno) ⭐ 43,160 | 🐛 1,873 | 🌐 Python | 📅 2026-11-12: a lightweight library for building multi-modal agents
+* [`stanfordnlp/dspy`](https://github.com/stanfordnlp/dspy) ⭐ 39,011 | 🐛 779 | 🌐 Python | 📅 2026-11-11: the framework for programming - not prompting - language models
+* [`ItzCrazyKns/Perplexica`](https://github.com/ItzCrazyKns/Perplexica) ⭐ 38,173 | 🐛 378 | 🌐 TypeScript | 📅 2026-09-01: an AI-powered search engine and open source alternative to Perplexity AI
+* [`khoj-ai/khoj`](https://github.com/khoj-ai/khoj) ⭐ 38,112 | 🐛 171 | 🌐 Python | 📅 2026-08-02: a self-hostable AI second brain
+* [`langfuse/langfuse`](https://github.com/langfuse/langfuse) ⭐ 37,325 | 🐛 1,183 | 🌐 TypeScript | 📅 2026-11-12: an open source LLM engineering platform with support for LLM observability, metrics, evals, prompt management, playground, datasets
+* [`topoteretes/cognee`](https://github.com/topoteretes/cognee) ⭐ 33,256 | 🐛 1,121 | 🌐 Python | 📅 2026-11-12: reliable LLM memory for AI applications and AI agents
+* [`ScrapeGraphAI/Scrapegraph-ai`](https://github.com/ScrapeGraphAI/Scrapegraph-ai) ⭐ 32,730 | 🐛 32 | 🌐 Python | 📅 2026-10-06: a web scraping python library that uses LLM and direct graph logic to create scraping pipelines for websites and local documents
+* [`ComposioHQ/composio`](https://github.com/ComposioHQ/composio) ⭐ 31,040 | 🐛 146 | 🌐 TypeScript | 📅 2026-11-12: equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
+* [`promptfoo/promptfoo`](https://github.com/promptfoo/promptfoo) ⭐ 27,071 | 🐛 963 | 🌐 TypeScript | 📅 2026-11-11: a developer-friendly local tool for testing LLM applications
+* [`deepset-ai/haystack`](https://github.com/deepset-ai/haystack) ⭐ 26,993 | 🐛 152 | 🌐 Python | 📅 2026-11-12: orchestration framework to build customizable, production-ready LLM applications
+* [`Cinnamon/kotaemon`](https://github.com/Cinnamon/kotaemon) ⭐ 25,902 | 🐛 262 | 🌐 Python | 📅 2026-07-14: an open-source RAG-based tool for chatting with your documents
+* [`guidance-ai/guidance`](https://github.com/guidance-ai/guidance) ⭐ 21,820 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-05-21: a guidance language for controlling large language models
+* [`pydantic/pydantic-ai`](https://github.com/pydantic/pydantic-ai) ⭐ 21,150 | 🐛 1,940 | 🌐 Python | 📅 2026-11-12: agent framework / shim to use Pydantic with LLMs
+* [`microsoft/data-formulator`](https://github.com/microsoft/data-formulator) ⭐ 17,677 | 🐛 128 | 🌐 Python | 📅 2026-11-09: transform data and create rich visualizations iteratively with AI 🪄
+* [`dottxt-ai/outlines`](https://github.com/dottxt-ai/outlines) ⭐ 16,007 | 🐛 213 | 🌐 Python | 📅 2026-09-21: make LLMs speak the language of every application
+* [`instructor-ai/instructor`](https://github.com/instructor-ai/instructor) ⭐ 14,110 | 🐛 40 | 🌐 Python | 📅 2026-11-11: the most popular Python library for working with structured outputs from LLMs
+* [`keephq/keep`](https://github.com/keephq/keep) ⭐ 12,515 | 🐛 700 | 🌐 Python | 📅 2026-11-10: open-source AIOps and alert management platform
+* [`Arize-ai/phoenix`](https://github.com/Arize-ai/phoenix) ⭐ 12,254 | 🐛 1,275 | 🌐 Python | 📅 2026-11-12: an open-source AI observability platform designed for experimentation, evaluation, and troubleshooting
+* [`Giskard-AI/giskard`](https://github.com/Giskard-AI/giskard) ⭐ 5,947 | 🐛 81 | 🌐 Python | 📅 2026-11-10: control risks of performance, bias and security issues in AI systems
+* [`h2oai/h2o-llmstudio`](https://github.com/h2oai/h2o-llmstudio) ⭐ 5,193 | 🐛 31 | 🌐 Python | 📅 2026-11-09: a framework and no-code GUI for fine-tuning LLMs
+* [`latitude-dev/latitude-llm`](https://github.com/latitude-dev/latitude-llm) ⭐ 4,750 | 🐛 114 | 🌐 TypeScript | 📅 2026-11-09: open-source prompt engineering platform to build, evaluate, and refine your prompts with AI
 * [`eth-sri/lmql`](https://github.com/eth-sri/lmql) ⭐ 4,226 | 🐛 122 | 🌐 Python | 📅 2025-05-22: a programming language for LLMs based on a superset of Python
-* [`unitaryai/detoxify`](https://github.com/unitaryai/detoxify) ⭐ 1,314 | 🐛 37 | 🌐 Python | 📅 2026-11-10: trained models and code to predict toxic comments
+* [`unitaryai/detoxify`](https://github.com/unitaryai/detoxify) ⭐ 1,314 | 🐛 36 | 🌐 Python | 📅 2026-11-11: trained models and code to predict toxic comments
 * [`microsoft/prompty`](https://github.com/microsoft/prompty) ⭐ 1,288 | 🐛 24 | 🌐 Rust | 📅 2026-11-09: an asset class and format for LLM prompts designed to enhance observability, understandability, and portability for developers
 * [`groq/groq-python`](https://github.com/groq/groq-python) ⭐ 622 | 🐛 1 | 🌐 Python | 📅 2026-09-04: the official Python library for the Groq API
 * [`microsoft/robustlearn`](https://github.com/microsoft/robustlearn) ⭐ 511 | 🐛 11 | 🌐 Python | 📅 2024-07-12: a unified library for research on robust ML
@@ -864,12 +864,12 @@ If you're in a hurry or just don't like reading, here's a podcast-style breakdow
 
 <small>[🔼 Back to top](#toc)</small>
 
-* [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 144,380 | 🐛 20 | 🌐 Python | 📅 2026-11-10: a collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models
-* [Awesome Production ML](https://github.com/EthicalML/awesome-production-machine-learning) ⭐ 21,093 | 🐛 45 | 📅 2026-11-08: a curated list of awesome open source libraries that will help you deploy, monitor, version, scale, and secure your production machine learning
-* [Awesome MLOps](https://github.com/kelvins/awesome-mlops) ⭐ 5,315 | 🐛 119 | 🌐 Python | 📅 2026-10-30: a curated list of awesome MLOps tools
-* [Awesome Python Data Science](https://github.com/krzjoa/awesome-python-data-science) ⭐ 3,640 | 🐛 26 | 📅 2026-04-13: (probably) the best curated list of data science software in Python
+* [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 144,444 | 🐛 10 | 🌐 Python | 📅 2026-11-11: a collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models
+* [Awesome Production ML](https://github.com/EthicalML/awesome-production-machine-learning) ⭐ 21,097 | 🐛 45 | 📅 2026-11-08: a curated list of awesome open source libraries that will help you deploy, monitor, version, scale, and secure your production machine learning
+* [Awesome MLOps](https://github.com/kelvins/awesome-mlops) ⭐ 5,316 | 🐛 119 | 🌐 Python | 📅 2026-10-30: a curated list of awesome MLOps tools
+* [Awesome Python Data Science](https://github.com/krzjoa/awesome-python-data-science) ⭐ 3,640 | 🐛 27 | 📅 2026-04-13: (probably) the best curated list of data science software in Python
 * [Awesome Safety Critical](https://github.com/stanislaw/awesome-safety-critical) ⭐ 1,598 | 🐛 1 | 🌐 Python | 📅 2025-03-11: a list of resources about programming practices for writing safety-critical software
-* [Awesome Prompt Hacking](https://github.com/PromptLabs/Prompt-Hacking-Resources) ⭐ 754 | 🐛 6 | 📅 2026-10-29: an awesome list of curated resources on prompt hacking and AI safety
+* [Awesome Prompt Hacking](https://github.com/PromptLabs/Prompt-Hacking-Resources) ⭐ 754 | 🐛 7 | 📅 2026-10-29: an awesome list of curated resources on prompt hacking and AI safety
 * [Awesome Trustworthy AI](https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning) ⭐ 395 | 🐛 0 | 📅 2026-11-08: list covering different topics in emerging research areas including but not limited to out-of-distribution generalization, adversarial examples, backdoor attack, model inversion attack, machine unlearning, \&c.
 * [Awesome Responsible AI](https://github.com/AthenaCore/AwesomeResponsibleAI) ⭐ 158 | 🐛 54 | 📅 2026-11-04: a curated list of awesome academic research, books, code of ethics, courses, data sets, frameworks, institutes, maturity models, newsletters, principles, podcasts, reports, tools, regulations and standards related to Responsible, Trustworthy, and Human-Centered AI
 * [safety-critical-systems](https://github.com/topics/safety-critical-systems) GitHub topic
@@ -932,4 +932,4 @@ If you found this repository helpful, please consider citing it using the follow
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
